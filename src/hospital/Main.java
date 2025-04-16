@@ -14,7 +14,7 @@ public class Main {
 	   static String driver="com.mysql.cj.jdbc.Driver";
 	   static String url="jdbc:mysql://localhost:3306/hospitalmanagement";
 	   static String username="root";
-	   static String password="Venkatrao@123";
+	   static String password="Password";
 	      static InputStreamReader ins=new InputStreamReader(System.in);
 		static   BufferedReader br=new BufferedReader(ins);
 	public static void main(String[] args) throws ClassNotFoundException, SQLException, NumberFormatException, IOException {
